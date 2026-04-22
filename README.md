@@ -16,5 +16,5 @@ Hey! I'm a Computer Science student who enjoys blending logic with creativity, l
 - Data Analysis: Pandas, matplotlib, NumPy
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Arushi-Shandilya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arushi-shandilya-0654b03b4/?skipRedirect=true)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arushishandilya4@.com)
