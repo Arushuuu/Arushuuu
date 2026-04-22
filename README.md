@@ -4,8 +4,11 @@
 
 🌱 Currently Learning Artificial Intelligence & Machine learning
 
-
+## 😇Contributions
 ![snake gif](https://github.com/Arushuuu/Arushuuu/blob/output/github-snake-dark.svg)
+
+## ✨ About Me
+Hey! I'm a Computer Science student who enjoys blending logic with creativity, looking for to learning building and improving
 
 ## 🛠️ Tech Stack
 - Languages: Java, Python, C,C++
