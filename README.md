@@ -1,6 +1,6 @@
 ## Hi I am Arushi 👋
 
-🔭 CSE Student at UVCE | CGPA: 9.7
+🔭 CSE Student at UVCE | CGPA: 9.75
 
 🌱 Currently Learning Artificial Intelligence & Machine learning
 
