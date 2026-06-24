@@ -11,7 +11,7 @@
 Hey! I'm a Computer Science student who enjoys blending logic with creativity, looking for to learning building and improving
 
 ## 🛠️ Tech Stack
-- Languages: Java, Python, C,C++
+- Languages: Java, JavaScript, Python, C,C++
 - Tools: Git, GitHub, VS Code
 - Data Analysis: Pandas, matplotlib, NumPy
 
