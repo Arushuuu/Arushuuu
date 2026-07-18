@@ -12,8 +12,8 @@ Hey! I'm a Computer Science student who enjoys blending logic with creativity, l
 
 ## 🛠️ Tech Stack
 - Languages: Java, JavaScript, Python, C,C++
-- Tools: Git, GitHub, VS Code
-- Data Analysis: Pandas, matplotlib, NumPy
+- Tools: Git, GitHub, VS Code, Jupyter Notebook
+- Data Analysis: Pandas, matplotlib, NumPy, Scikit-Learn
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arushi-shandilya-0654b03b4/?skipRedirect=true)
